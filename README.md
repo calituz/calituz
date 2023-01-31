@@ -1,8 +1,4 @@
-<p>
-  <img width="850" src="pic" alt="banner">
-</p>
 
----
 <p align="center">    <b>Hi there welcome to my GitHub page 👋 <b> </p> 
 
 
