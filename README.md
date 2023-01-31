@@ -26,9 +26,7 @@
       <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
     </p>
 
-## Applications
-**AdilBet** | [Live Site](https://adil-bet.vercel.app/) | [Source Code](https://github.com/LuisRodriguzz/PF-AdilBet)<br>
-A fullstack JavaScript application where users can see and interact with a 100% functional betting page.
+
 
 
 
