@@ -27,5 +27,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuisRodiguzz&label=Profile%20views&color=0e75b6&style=flat" alt="LuisRodriguzz" /> </p>
   
 # Contacts
-[LinkedIn]https://www.linkedin.com/in/carlos-ciliberti-501614234/
+[LinkedIn](https://www.linkedin.com/in/carlos-ciliberti-501614234/)
 Email: carlos.ciliberti@gmail.com  
