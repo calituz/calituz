@@ -22,15 +22,10 @@
       <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
     </p>
 
-# Contacts
-[LinkedIn]https://www.linkedin.com/in/carlos-ciliberti-501614234/
-Email: carlos.ciliberti@gmail.com
-
-
-
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calituz&show_icons=true&theme=gruvbox)
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuisRodiguzz&label=Profile%20views&color=0e75b6&style=flat" alt="LuisRodriguzz" /> </p>
+  
+# Contacts
+[LinkedIn]https://www.linkedin.com/in/carlos-ciliberti-501614234/
+Email: carlos.ciliberti@gmail.com  
