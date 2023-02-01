@@ -22,7 +22,7 @@
 **AdilBet** | [Live Site](https://adil-bet.vercel.app/) | [Source Code](https://github.com/calituz/adil-bet)<br>
 A fullstack JavaScript application where users can see and interact with a 100% functional betting page.
 
-**Food** | [Live Site](unavailable atm) | [Source Code Front](https://github.com/calituz/PI-FOOD-FRONTEND) [Source Code Back](https://github.com/calituz/PI-FOOD-BACKEND)<br>
+**Food** | [Live Site](unavailable atm) | [Source Code Front](https://github.com/calituz/PI-FOOD-FRONTEND) | [Source Code Back](https://github.com/calituz/PI-FOOD-BACKEND)<br>
 A Cooking Recipes Catalog
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calituz&show_icons=true&theme=gruvbox)
