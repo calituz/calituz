@@ -1,10 +1,6 @@
 
 <p align="center">    <b>Hi there welcome to my GitHub page 👋 <b> </p> 
 
-
-
-
-  
   ---
   **Skills that I use for my projects are:**<br>
     JavaScript, React, HTML5, CSS3, Node.js, PostgreSQL, Express, Visual Studio Code, npm, Bootstrap, Sequelize, Redux
@@ -21,6 +17,13 @@
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" height="40" style="vertical-align:top; margin:4px">
       <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
     </p>
+  
+  ## Applications
+**AdilBet** | [Live Site](https://adil-bet.vercel.app/) | [Source Code](https://github.com/calituz/adil-bet)<br>
+A fullstack JavaScript application where users can see and interact with a 100% functional betting page.
+
+**Food** | [Live Site](unavailable atm) | [Source Code Front](https://github.com/calituz/PI-FOOD-FRONTEND) [Source Code Back](https://github.com/calituz/PI-FOOD-BACKEND)<br>
+A Cooking Recipes Catalog
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calituz&show_icons=true&theme=gruvbox)
   
